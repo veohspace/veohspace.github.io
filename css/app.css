@@ -1,0 +1,148 @@
+@font-face {
+	font-family: "Brandon Light";
+	src: url("../res/res.woff2");
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #000;
+}
+
+.content, .bg {
+	position: absolute;
+}
+
+.content {
+	z-index: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	mix-blend-mode: overlay;
+	filter: invert(100%);
+}
+
+img, canvas {
+	width: 91vmin;
+	height: 13vmin;
+}
+
+.social {
+	margin-top: 0.5vmin;
+	font-family: "Brandon Light";
+	font-size: 2.75vmin;
+	letter-spacing: 0.2vmin;
+	font-weight: bold;
+}
+
+.social a {
+	text-decoration: none;
+	color: #000;
+}
+
+.hint {
+	z-index: 1;
+	color: #000;
+	mix-blend-mode: overlay;
+	filter: invert(100%);
+	position: fixed;
+	bottom: 2.75vmin;
+	font-family: "Brandon Light";
+	font-size: 2.75vmin;
+	letter-spacing: 0.2vmin;
+	font-weight: bold;
+}
+
+.fade-in-fade-out {
+	display: inline-block;
+	font-family: "Brandon Light";
+	font-size: 100px;
+	color: black;
+	animation: fadeIn linear 7s; -moz-animation: fadeIn linear 7s;
+	-o-animation: fadeIn linear 7s;
+	-ms-animation: fadeIn linear 7s;
+}
+
+@keyframes fade-inout {
+	0%{ opacity: 1;}
+	100%{ opacity: 0;}
+  }
+  /* support for opera */
+  @-o-keyframes fade-inout{
+	0%{ opacity: 1;}
+	100%{ opacity: 0;}
+  }
+  /* support for mozila */
+  @-moz-keyframes fade-inout{
+	0%{ opacity: 1;}
+	100%{ opacity: 0;}
+  }
+  /* support for safari and chrome */
+  @-webkit-keyframes fade-inout{
+	0%{ opacity: 1;}
+	100%{ opacity: 0;}
+  }
+  .fade-in-fade-out {
+	 -webkit-animation: fade-inout 5s forwards;
+	 -moz-animation: fade-inout 5s forwards;
+	 -o-animation: fade-inout 5s forwards;
+	  animation: fade-inout 5s forwards;
+  }
+
+  body, html {
+    height: 100%;
+    text-align: center;
+}
+
+body {
+  background-color: #242F3F;
+}
+
+loader-wrapper {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #242F3F;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.loader {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  border: 4px solid #Fff;
+  animation: loader 2s infinite ease;
+}
+
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #fff;
+  animation: loader-inner 2s infinite ease-in;
+}
+
+@keyframes loader {
+  0% {
+    transform: rotate(0deg);
+  }
+  
+}
