@@ -1,0 +1,92 @@
+Uri: http://haze.ag/
+File Name: C:\Downloaded Web Sites\haze.ag\index.htm
+Content Type: text/html
+
+Uri: http://haze.ag/ico/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\haze.ag\ico\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://haze.ag/ico/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\haze.ag\ico\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://haze.ag/ico/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\haze.ag\ico\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://haze.ag/ico/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\haze.ag\ico\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: http://haze.ag/ico/site.webmanifest
+File Name: C:\Downloaded Web Sites\haze.ag\ico\site.webmanifest
+Content Type: 
+
+Uri: http://haze.ag/img/crew/jakub.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\jakub.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/kubalec.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\kubalec.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/lucia.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\lucia.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/martas.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\martas.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/martin.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\martin.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/msx.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\msx.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/susan.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\susan.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/tomas.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\tomas.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/crew/vita.png
+File Name: C:\Downloaded Web Sites\haze.ag\img\crew\vita.png
+Content Type: image/png
+
+Uri: http://haze.ag/img/haze-logo.svg
+File Name: C:\Downloaded Web Sites\haze.ag\img\haze-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://haze.ag/js/main.js
+File Name: C:\Downloaded Web Sites\haze.ag\js\main.js
+Content Type: application/javascript
+
+Uri: http://haze.ag/style.css
+File Name: C:\Downloaded Web Sites\haze.ag\style.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\haze.ag\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono:400,700&subset=latin-ext
+File Name: C:\Downloaded Web Sites\haze.ag\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotomono/v13/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW9.ttf
+File Name: C:\Downloaded Web Sites\haze.ag\s\robotomono\v13\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v13/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_SuW9.ttf
+File Name: C:\Downloaded Web Sites\haze.ag\s\robotomono\v13\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_SuW9.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-129495068-1
+File Name: C:\Downloaded Web Sites\haze.ag\gtag\js
+Content Type: application/javascript
+
